@@ -17,7 +17,7 @@
 		<exclusions>
 		     <exclusion>
 		              <groupId>org.springframework</groupId>
-		              <artifactId>spring-aop</artifactId>
+		              <artifactId>spring-core</artifactId>
 		              
 		      </exclusion>
 		</exclusions>
