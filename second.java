@@ -5,7 +5,7 @@ public class New{
 
     //BUG- 122
     public static void m1(){
-        System.out.println("git stash apply");
+        System.out.println("git stash apply cmd");
     }
 
 
